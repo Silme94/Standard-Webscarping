@@ -2,8 +2,8 @@
 
 1. Clone the project.
 ```
-git clone
-cd
+git clone https://github.com/Silme94/Standard-Webscarping
+cd Standard-Webscarping
 ```
 2. Install required modules.
 ```
